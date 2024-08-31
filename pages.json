@@ -1,0 +1,50 @@
+{
+    "33430e7f848a41760d3406a8ee8c601a": {
+        "page_script_hash": "33430e7f848a41760d3406a8ee8c601a",
+        "page_name": "Advo_Chatbot",
+        "icon": "",
+        "script_path": "./pages/2_Advo_Chatbot.py"
+    },
+    "8beed470a6e0ad4895d7389439325959": {
+        "page_script_hash": "8beed470a6e0ad4895d7389439325959",
+        "page_name": "Simplify_Legal_Jargon",
+        "icon": "",
+        "script_path": "./pages/2_Simplify_Legal_Jargon.py"
+    },
+    "6f9c6181aeadebc6f1d154204a7db2a9": {
+        "page_script_hash": "6f9c6181aeadebc6f1d154204a7db2a9",
+        "page_name": "Translate_Legalese",
+        "icon": "",
+        "script_path": "./pages/3_Translate_Legalese.py"
+    },
+    "0cc71a03dfba12fccad68de40b33bd4a": {
+        "page_script_hash": "0cc71a03dfba12fccad68de40b33bd4a",
+        "page_name": "Document_Generator",
+        "icon": "",
+        "script_path": "./pages/4_Document_Generator.py"
+    },
+    "821b10cf9fb9bfe2d84b02968922be55": {
+        "page_script_hash": "821b10cf9fb9bfe2d84b02968922be55",
+        "page_name": "Image_Scanner",
+        "icon": "",
+        "script_path": "./pages/5_Image_Scanner.py"
+    },
+    "f8c9a836ae2ef51071b24b540637701e": {
+        "page_script_hash": "f8c9a836ae2ef51071b24b540637701e",
+        "page_name": "Latest_Updates",
+        "icon": "",
+        "script_path": "./pages/6_Latest_Updates.py"
+    },
+    "5d87ab850d96cf43c73684ae072b6ede": {
+        "page_script_hash": "5d87ab850d96cf43c73684ae072b6ede",
+        "page_name": "Schedule_a_Call",
+        "icon": "",
+        "script_path": "./pages/7_Schedule_a_Call.py"
+    },
+    "b774418f793bf40a3826c188d7589805": {
+        "page_script_hash": "b774418f793bf40a3826c188d7589805",
+        "page_name": "About_Author",
+        "icon": "",
+        "script_path": "./pages/About_Author.py"
+    }
+}
