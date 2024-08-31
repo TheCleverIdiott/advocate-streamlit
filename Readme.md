@@ -1,9 +1,15 @@
-
+<!--
 <div align="center">
 <a href="https://youtu.be/j869V86b8xw?si=_g4-Ie6kxF1SLLLo"><img width="1710" alt="image" src="https://github.com/user-attachments/assets/b6bc117e-e5a1-4d83-8818-44d976d9b8f8"></a>
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=your%20personal%20legal%20assistant%20;&font=Fira%20Code&center=true&width=440&height=45&color=99ccff&vCenter=true&pause=1000&size=22" /></a>
 <h2>Cick above banner trailer</h2>
+</div>
+-->
+<div align="center">
+	
+https://github.com/user-attachments/assets/8ab38ecd-ce7e-4f1f-9927-a50a5e93f3be
+
 </div>
 
 <div align="center">
